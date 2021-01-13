@@ -6,7 +6,7 @@ Recommending you to download it and run on your jupyter notebook for the preview
 # Data
 Titanic dataset 
 
-[Kaggle](https://www.kaggle.com/c/titanic)
+[Titanic on kaggle](https://www.kaggle.com/c/titanic)
 
 In the notebook I using the url dataset which I serach from web , for preventing the uploading of data will take a long time.
 
