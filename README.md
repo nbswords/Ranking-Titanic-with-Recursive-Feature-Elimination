@@ -1,5 +1,5 @@
 # Ranking-Titanic-with-Recursive-Feature-Elimination
-A practice of Recursive Feature Elimination (RFE) using Titanic dataset.
+Recursive Feature Elimination (RFE) using Titanic dataset.
 
 Recommending you to download it and run on your jupyter notebook for the preview of notebook on github is suckkkkkk.
 
